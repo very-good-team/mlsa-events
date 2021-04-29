@@ -4,20 +4,25 @@
    - [ ] Microsoft Word
    - [ ] Spotify Music Player
 
+
 2. Who is the creator of Git?
 
    Answer: 
 
+
 3. What programming languages do you need to make an open source contribution?
-  - [ ] Python
-  - [ ] C++
-  - [ ] Java
-  - [ ] None is essentially required
+   - [ ] Python
+   - [ ] C++
+   - [ ] Java
+   - [ ] None is essentially required
+
 
 4. What is the command to clone a clone a git repository?
   
-  Answer: git ____ <repo name>.git
+   Answer: git ___ {repo name}.git
   
+
 5. Can we make a pull request directly from Visual Studio Code?
 
-  Answer: 
+   - [ ] Yes
+   - [ ] No
