@@ -17,7 +17,7 @@
    - [ ] None is essentially required
 
 
-4. What is the command to clone a clone a git repository?
+4. What is the command to clone a git repository?
   
    Answer: git ___ {repo name}.git
   
@@ -26,3 +26,7 @@
 
    - [ ] Yes
    - [ ] No
+   
+6. What is the command to initialize a git repository?
+
+   Answer: git __
