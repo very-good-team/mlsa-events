@@ -30,3 +30,7 @@
 6. What is the command to initialize a git repository?
 
    Answer: git __
+
+7. Who can contribute to open source?
+
+   Answer: 
