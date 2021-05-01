@@ -33,4 +33,4 @@
 
 7. Who can contribute to open source?
 
-   Answer: 
+   Answer: Everyone
