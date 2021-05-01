@@ -24,7 +24,7 @@
 
 5. Can we make a pull request directly from Visual Studio Code?
 
-   - [ ] Yes
+   - [x] Yes
    - [ ] No
    
 6. What is the command to initialize a git repository?
